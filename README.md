@@ -2,6 +2,11 @@
 
 A simple Python script to generate unlock codes for [worldlivetv.stream](http://worldlivetv.stream).
 
+## Try it online
+
+You can quickly try the unlock code generator in your browser here:  
+[https://worldlivetv-unlock.web.app/](https://worldlivetv-unlock.web.app/)
+
 ## Features
 
 - Generates unlock codes with different validity periods (`click` for 24h, `view` for 2h)
